@@ -1,0 +1,35 @@
+@font-face{
+    font-family: "QQ";
+    src : url("./QQ.ttf") format("truetype");
+
+
+
+
+
+
+}
+
+@font-face{
+    font-family: "jijian";
+    src : url("./jijan.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "youshe";
+    src : url("./youshe.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "douyu";
+    src : url("./douyuFont.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "alimama";
+    src : url("./alimama.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "jinnan";
+    src : url("./jinnan.ttf") format("truetype");
+}
